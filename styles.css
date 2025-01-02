@@ -1,1 +1,31 @@
+html {
+    font-family: "Verdana";
+}
 
+.menu {
+   height: 70vh;
+   background: darkgray;
+   border-radius: 30px;
+   margin: auto;
+}
+
+.menu-title {
+   text-align: center;
+   margin: 0;
+   
+}
+
+.radios {
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: lightgray;
+    opacity: 70%;
+    border-radius: 50px;
+}
+
+.radio-column {
+    padding: 20px;
+    height: 90%;
+}
